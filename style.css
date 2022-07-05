@@ -7,16 +7,15 @@ h5 {
     font-family: 'Merriweather Sans', sans-serif;
     color: gray;
     font-size: 18px;
-
-
 }
 
 span {
     color: orangered;
 }
 
-section {
+.section-1 {
     display: flex;
+    background: white;
 }
 
 .skip {
@@ -26,7 +25,7 @@ section {
 }
 
 .male img {
-    width: 80%;
+    width: 90%;
 }
 
 #anochor {
@@ -38,6 +37,17 @@ section {
     color: aliceblue;
 }
 
-.section-1 {
-    background: white;
+.section-2 {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.female img {
+    width: 80%;
+    height: auto;
+    padding: 20px 50px 10px 20;
+    margin-left: 10%;
+
+
 }
