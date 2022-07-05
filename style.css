@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: gray;
+}
+
+h5 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: gray;
+
+}
+
+span {
+    color: orangered;
+}
+
+section {
+    display: flex;
+}
+
+.skip {
+    width: 100%;
+    padding-left: 5%;
+}
